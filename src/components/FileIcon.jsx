@@ -5,7 +5,7 @@ import {
   Image as ImageIcon,
   FileText,
   FileCode,
-  FileArchive,
+  FileArchive, 
   Music,
   Video
 } from 'lucide-react';
